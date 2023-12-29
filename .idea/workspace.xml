@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ccdeb47-1dc0-40a6-a171-59e1a95d000e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DDL/bd_tienda.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Departamento.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Municipio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Pais.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UBICACION_GEOGRAFICA/DDL/bd_ubicacion_geografica.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Departamento.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Municipio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Pais.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39a56678-bde7-45da-88ef-5bc724abc02d/storage_v2/_src_/schema/tienda_online.N_gsnQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +32,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JAVA" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ZPGUxauhm1Jqs4MFw6NSoHYLTP" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,16 +55,24 @@
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/gerso"
+    "last_opened_file_path": "C:/GIT/JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "MySQL"
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\MYSQL\UBICACION_GEOGRAFICA\DDL" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

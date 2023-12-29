@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DDL/bd_tienda.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Departamento.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Municipio.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JAVA/WEB/SPRINGBOOT/TIENDA/BASEDATOS/DML/Pais.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/UBICACION_GEOGRAFICA/DDL/bd_ubicacion_geografica.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Departamento.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Municipio.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/UBICACION_GEOGRAFICA/DML/Pais.sql" dialect="MySQL" />
+  </component>
+</project>
