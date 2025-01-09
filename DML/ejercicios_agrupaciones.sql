@@ -1,6 +1,6 @@
 USE escuela;
 
-# Ejercicios para ORDER BY
+# Ejercicios para GROUP BY
 
 # 1. Cantidad de estudiantes por curso.
 # 2. Promedio de calificaciones por curso.
